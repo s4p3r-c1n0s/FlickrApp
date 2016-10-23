@@ -1,4 +1,4 @@
-package com.mezi.simplefifothread;
+package com.mezi.simplefifo;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.Callable;

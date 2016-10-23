@@ -1,4 +1,4 @@
-package com.mezi.simplefifothread;
+package com.mezi.simplefifo;
 
 import java.util.Iterator;
 import java.util.List;
